@@ -1,7 +1,7 @@
 # Ollama as API on Modal
 
 <p align="center">
-    <img src="./llama.jpg" width="512px" height="512px" />
+    <img src="./xei_ollama.jpg" width="512px" height="512px" />
 </p>
 
 ## Serving 
